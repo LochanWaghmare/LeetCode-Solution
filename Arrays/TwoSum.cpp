@@ -1,8 +1,5 @@
 /*
 
-THIS IS MY OWN CODE
-
-
 #include<stdio.h>
 int main (){
     int i, j, target, value, found=0;
